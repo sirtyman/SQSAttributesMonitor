@@ -1,0 +1,8 @@
+{
+  // To get list of queues use awscli as per the following link
+  // https://docs.aws.amazon.com/cli/latest/reference/sqs/list-queues.html
+  "Urls": [
+    "http://localhost:4566/000000000000/A",
+    "http://localhost:4566/000000000000/B"
+  ]
+}
